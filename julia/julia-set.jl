@@ -1,6 +1,9 @@
 # Black and white Julia set written in Julia
-# Author: johmathe@google.com (Johan Mathe)
 #
+# Author: johmathe@nonutc.com (Johan Mathe)
+#
+# Based on the Mandelbrot example:
+# https://github.com/JuliaLang/julia/blob/master/examples/shootout/mandelbrot.jl
 # http://en.wikipedia.org/wiki/Julia_set
 
 const ITER = 15
